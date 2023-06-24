@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "349807132140",
+    "project_id": "shop-food-app-2fb8d",
+    "storage_bucket": "shop-food-app-2fb8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349807132140:android:b5c23e0f27fc407359d4c9",
+        "android_client_info": {
+          "package_name": "com.example.shop_food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349807132140-0srhl1bu1qqrd4v4472q3fkrealm8idr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shop_food_app",
+            "certificate_hash": "353c5e91206a3e98dfb96d72e2e8c3ae11be7b75"
+          }
+        },
+        {
+          "client_id": "349807132140-ncpc28otk40em2hpeqd5heh0v0sjot1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1hCMecy3xySqQDxASkHhWFOGusRRFrlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349807132140-ncpc28otk40em2hpeqd5heh0v0sjot1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
